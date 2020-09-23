@@ -453,9 +453,9 @@ enableEmoji = true
         meta= ""
         pageSize = 10
         lang = ""
-        visitor = true
-        recordIP = true
-        highlight = true
+        visitor = false
+        recordIP = false
+        highlight = false
         enableQQ = false
         serverURLs = "https://leancloud.hugoloveit.com"
         # emoji data file name, default is "google.yml"
